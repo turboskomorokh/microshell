@@ -1,6 +1,6 @@
 # MicroSH
 
-[![C/C++ CI](https://github.com/p1xeldust/microsh/actions/workflows/c-cpp.yml/badge.svg?branch=main)](https://github.com/p1xeldust/microsh/actions/workflows/c-cpp.yml)
+[![C/C++ CI](https://github.com/turboskomorokh/microshell/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/turboskomorokh/microshell/actions/workflows/c-cpp.yml)
 
 ![where is cowsay](doc/microsh_cowsay.png)
 
